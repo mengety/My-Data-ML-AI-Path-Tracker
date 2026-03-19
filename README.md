@@ -1,4 +1,4 @@
-# 🚀 The AI & Data Engineering Foundry: 365 Days of Mastery
+# 🚀 The AI/ML& Data Engineering Foundry: 365 Days of Mastery
 ### By Mengistu Tarko | 2nd Year CS Student & Aspiring AI/ML Engineer 
 
 This repository serves as the central hub for my journey toward becoming a world-class AI Engineer and Data Scientist. I am moving beyond "Tutorial Hell" to build high-scale, industry-ready solutions for **Big Tech, Fintech, and Autonomous Systems.**
